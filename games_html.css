@@ -1,0 +1,93 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_65730519 a { text-decoration: none; }
+#menu_65730519_pane { background-color: #E6E6E6; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_65730519_hr { background-color: #646464; height: 1px; border: none; }
+#menu_65730519_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_65730519_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_65730519_entry:hover span { color:#FFFFFF !important; }
+		.menu_65730519_mainMenuEntry { text-align: center; }
+		.menu_65730519_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_65730519_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_65730519 .mobileEntry { display: none; } 
+		#menu_65730519 .normalEntry { display: block; } 
+		@media only screen and (max-width:550px) { 
+			#menu_65730519 .mobileEntry { display: block; } 
+			#menu_65730519 .normalEntry { display: none; } 
+		}
+body { background-color:#80FFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_4bfc9550 { vertical-align: top; position:relative; display: inline-block; width:100%; background-color:#FF80C0; background: linear-gradient(to bottom, #800080, #FF80C0);  }
+#container_4bfc9550_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:left; }
+#img_514177bc { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:10%; background:none; border: 0px solid #404040; height:auto;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_23ae79bd { vertical-align: bottom; position:relative; display: inline-block; width:80%; background:none;  }
+.vcenterstyle1 { position:absolute; text-align:center; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:32px; }
+.textstyle4 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px #000000;  }
+.textstyle5 { font-size:6pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+#menu_65730519 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:rgba(229, 229, 229, 0.498039); border: 2px solid #A0A0A0;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.style1 { position:absolute; width:37px; height:38px; left:10px;  }
+.style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle6 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.style3 { position:absolute; width:61px; height:38px; left:10px;  }
+.style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:23px;  }
+.textstyle7 { font-size:12pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
+.style5 { position:absolute; width:69px; height:38px; left:71px;  }
+.style6 { position:absolute; width:102px; height:38px; left:140px;  }
+.style7 { position:absolute; width:117px; height:38px; left:242px;  }
+.style8 { position:absolute; width:64px; height:38px; left:359px;  }
+.style9 { position:absolute; width:68px; height:38px; left:423px;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.textstyle9 { font-size:40pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-shadow: 0px 0px 5px #000000;  }
+.textstyle10 { font-size:40pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 0px 0px 4px #000000;  }
+.textstyle11 { font-size:40pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 0px 0px 5px #000000;  }
+#container_23e9de1e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_23e9de1e_padding { margin: 10px; display: block;  }
+#container_12299969 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_12299969_padding { margin: 10px; display: block;  }
+#img_824b883 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; border: 2px solid #404040; height:auto;  }
+.textstyle12 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#button_69df678f { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; width:150px; height:40px; background-color:#707AA4; border: 4px solid #404040;  }
+.vcenterstyle2 { display: table; width: 100%; height: 100%; }
+.vcenterstyle3 { display: table-cell; vertical-align: middle; }
+.textstyle13 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_4a6c0c45 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_4a6c0c45_padding { margin: 10px; display: block;  }
+#img_6cea8c18 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; border: 2px solid #404040; height:auto;  }
+#button_265c584b { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; width:150px; height:40px; background-color:#707AA4; border: 4px solid #404040;  }
+#container_78250f0d { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_78250f0d_padding { margin: 10px; display: block;  }
+#container_3680eb9 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; background:none; border: 5px solid #404040;  }
+#container_3680eb9_padding { margin: 10px; display: block;  }
+.textstyle14 { font-size:32pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#000000; font-weight:bold;  }
+.textstyle15 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_5ae194a6 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; width:150px; height:40px; background-color:#707AA4; border: 4px solid #404040;  }
+#container_75a780d4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:10px; background-color:#FFFFFF;  }
+#container_75a780d4_padding { margin: 10px; display: block;  }
+#button_5b7be53 { vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:30%; height:100%; background:none;  }
+#button_5b7be53_padding { margin: 10px; display: block;  }
+#container_7b6b87c8 { vertical-align: top; position:relative; display: inline-block; width:40%; background:none;  }
+#container_7b6b87c8_padding { margin: 10px; display: block;  }
+#img_dfedc4 { vertical-align: bottom; position:relative; display: inline-block; width:10%; background:none; height:auto;  }
+#img_483232ce { vertical-align: bottom; position:relative; display: inline-block; width:10%; background:none; height:auto;  }
+#img_76651f5c { vertical-align: bottom; position:relative; display: inline-block; width:10%; background:none; height:auto;  }
+#button_5c44c45e { vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:30%; height:100%; background:none;  }
+#button_5c44c45e_padding { margin: 10px; display: block;  }
+.textstyle16 { text-align:right; }
+.textstyle17 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#5D5D9E; font-weight:bold; text-decoration:underline;  }
+@media only screen and (max-width: 320px)
+{
+		#img_514177bc { display:none;  }
+		#button_23ae79bd * span { font-size:15pt;  }
+		#button_23ae79bd { width:90%; height:32px;  }
+}
+@media only screen and (max-width: 300px)
+{
+		#container_12299969 { width:100%;  }
+		#container_4a6c0c45 { width:100%;  }
+		#container_78250f0d { width:100%;  }
+}
